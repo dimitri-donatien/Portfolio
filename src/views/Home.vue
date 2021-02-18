@@ -24,7 +24,7 @@ export default {
     MyAbout,
     MyCapabilities,
     MyFooter
-  },
+  }
 }
 </script>
 
