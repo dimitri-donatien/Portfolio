@@ -1,5 +1,5 @@
 <template>
-  <div class="home">
+  <div>
     <my-header></my-header>
     <my-portfolio></my-portfolio>
     <my-about></my-about>

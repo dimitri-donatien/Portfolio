@@ -1,5 +1,5 @@
 <template>
-  <section class="portfolio-content">
+  <section id="portfolio" class="portfolio-content">
     <h2 class="font-bold text-white text-3xl mb-8 md:mb-0 md:text-4xl">Portfolio<span class="text-red-600">_</span></h2>
     <div class="content-card">
       <my-card :image="require('@/assets/img/227944.jpg')"></my-card>
